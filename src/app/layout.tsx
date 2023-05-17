@@ -1,3 +1,4 @@
+import 'alurkerja-ui/dist/style.css'
 import './globals.css'
 import { Inter } from 'next/font/google'
 
